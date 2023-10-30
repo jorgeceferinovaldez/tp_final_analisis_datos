@@ -2,7 +2,7 @@
 
 # Trabajo Práctico Integrador
 
-# Analisis de Datos
+# Análisis de Datos
 ---
 
 ## Integrantes:
