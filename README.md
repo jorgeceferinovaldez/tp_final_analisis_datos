@@ -35,3 +35,9 @@ categoría, etc.
     - (en caso de aplicar) ¿Qué técnicas consideraría para codificar la variable de salida? Justifique.
 
 
+## Instalación
+
+To set up the project, follow these steps:
+
+1. Clonar el repositorio: `git clone https://github.com/jorgeceferinovaldez/tp_final_analisis_datos.git`
+2. Intalar las dependencias requeridas: `make install`
